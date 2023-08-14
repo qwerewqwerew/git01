@@ -1,0 +1,29 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+section {
+  background: #ffcccc;
+  height: 300px;
+}
+
+.inner_wrap {
+  max-width: 1180px;
+  background: #245a5c;
+  margin: auto;
+  height: 300px;
+  position: relative;
+}
+
+h1,
+h2 {
+  position: absolute;
+  background-color: #ffccccbc;
+  padding: 30px;
+  color: white;
+}
+
+h2 {
+  right: 0;
+}
