@@ -1,0 +1,14 @@
+#wrapper {
+	/* 그리드 컨테이너로 선언 */
+	display: grid;
+	/* 너비 200px 컬럼 3개 */
+	grid-template-columns: repeat(3, 200px);
+	/* 최소높이 100px 최대높이 auto 인 가로행 2개 */
+	grid-template-rows: minmax(100px, auto);
+	/* 컬럼간격 */
+  grid-column-gap:30px;
+	/* 로우간격 */
+  grid-row-gap: 20px;
+  /* 축약속성 */
+  grid-gap:20px 30px;
+}
