@@ -62,7 +62,7 @@
 ---
 
 ## 📌수업파일
-|날짜|주제/제목|내용|링크|
-|---|---|---|---|
-|---|블루마켓|웹디자인기능사|[link](https://github.com/qwerewqwerew/git01/bluemarket)|
-|0816|grid Layout|css-grid 문법 <br> grid, flex 갤러리만들기|[수업파일](https://github.com/qwerewqwerew/git01/tree/main/grid/start)|
+| 날짜 | 주제/제목   | 내용                                       | 링크                                                                   |
+| ---- | ----------- | ------------------------------------------ | ---------------------------------------------------------------------- |
+| ---  | 블루마켓    | 웹디자인기능사                             | [link](https://github.com/qwerewqwerew/git01/bluemarket)               |
+| 0816 | grid Layout | css-grid 문법 <br> grid, flex 갤러리만들기<br> ⭐flex->grid 파일명은 flex-gallery1.css입니다. | [수업파일](https://github.com/qwerewqwerew/git01/tree/main/grid/start) |
