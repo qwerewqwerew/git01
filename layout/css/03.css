@@ -1,0 +1,10 @@
+body{background-color: lightblue;}
+.wrap{width:100%; max-width:1000px; margin:auto; display: flex;}
+
+main{flex-basis:70%; height:900px; }
+nav{flex-basis: 30%;height:900px; background:var(--primary)}
+
+header{width:100%; height: 300px; background-color: var(--third);}
+
+.content{width:100%; height: 300px; background-color: var(--background);}
+footer{width:100%; height: 300px; background-color: var(--secondary);}
