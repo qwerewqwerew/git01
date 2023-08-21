@@ -1,9 +1,0 @@
-body{background-color: lightblue;}
-.wrap{width:100%; max-width:1000px; margin:auto;}
-header{width:100%; height: 50px; background-color: var(--primary);}
-nav{width:100%; height: 50px; background-color: var(--secondary);}
-main{display:flex;}
-.side_l{width:30%; height: 300px; background-color: var(--background);}
-.side_r{width:30%; height: 300px; background-color: var(--third);}
-.contents{width:40%; height: 300px; background-color: var(--primary);}
-footer{width:100%; height: 50px; background-color: var(--secondary);}
