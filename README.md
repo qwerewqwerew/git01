@@ -6,7 +6,7 @@
 | ---  | 블루마켓    | 웹디자인기능사                                                                               | [link](https://qwerewqwerew.github.io/git01/bluemarket)                                                                                                                            |
 | 0816 | grid Layout | css-grid 문법 <br> grid, flex 갤러리만들기<br> ⭐flex->grid 파일명은 flex-gallery1.css입니다. | [수업파일](https://github.com/qwerewqwerew/git01/tree/main/grid/start)<br> [MDN-grid](https://developer.mozilla.org/ko/docs/Web/CSS/CSS_grid_layout/Basic_concepts_of_grid_layout) |
 | 0817 | layout      | 1. [레이아웃만들기](./layout/)<br>2.[보더팁](./c07/05.)|---|
-| 0818 | 사이트 디자인&구현      | 1. [블루마켓 메뉴제작](./siteA/)| --- |
+| 0818 | 사이트 디자인&구현      | 1. [블루마켓 메뉴제작: 소스보기](./siteA/)| [구현화면보기](https://git01-34101zga9-qwerewqwerew.vercel.app/) |
 
 
 
