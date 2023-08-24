@@ -7,9 +7,12 @@
 | 0816 | grid Layout| css-grid 문법 <br> grid, flex 갤러리만들기<br> ⭐flex->grid 파일명은 flex-gallery1.css입니다. | [수업파일](https://github.com/qwerewqwerew/git01/tree/main/grid/start)<br> [MDN-grid](https://developer.mozilla.org/ko/docs/Web/CSS/CSS_grid_layout/Basic_concepts_of_grid_layout) |
 | 0817 | layout | 1. [레이아웃만들기](./layout/)<br>2.[보더팁](./c07/05) |--- |
 | 0818 | 사이트 디자인&구현 | 1. [블루마켓 메뉴제작: 소스보기](./siteA/)| [구현화면보기](https://git01-34101zga9-qwerewqwerew.vercel.app/)|
-| 0822 | 사이트 디자인&구현 | 1. [블루마켓 디자인시안완료](https://www.figma.com/file/LtjYBQj9DDrmrpPn7rdteG/siteA?type=design&node-id=2%3A71&mode=design&t=sBzhOBEU0Cx5BKuR-1)
-2. [css-menu](./css-menu/)
-| ---|
+| 0822 | 사이트 디자인&구현 | 1. [블루마켓 디자인시안완료](https://www.figma.com/file/LtjYBQj9DDrmrpPn7rdteG/siteA?type=design&node-id=2%3A71&mode=design&t=sBzhOBEU0Cx5BKuR-1) <br>2. [css-menu](./css-menu/)| ---|
+| 0823 | 사이트 디자인&구현 | 1. [블루마켓 B영역구현-코드보기](https://github.com/qwerewqwerew/git01/tree/siteA)| [구현화면](https://git01-2wwhyoynr-qwerewqwerew.vercel.app/)|
+| 0823 | css메뉴제작 | 1. [2뎁스 드롭다운 메뉴](./css-menu/c/style1.css)| ---|
+
+
+
 
 
 
