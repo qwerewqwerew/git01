@@ -5,18 +5,28 @@ depth1.hover(
 		$('header').addClass('on');
 	},
 	function () {
-    $('.depth2').css('display', 'none');
+		$('.depth2').css('display', 'none');
 		$('header').removeClass('on');
-  }
+	}
 );
 
-/* depth1.addEventListener('mouseover', function () {
-  depth1.querySelectorAll('.depth2').forEach((o) => { o.style.display = 'block' })
-  document.querySelector('header').classList.add('on');
-});
+/***
+ * slide
+ * ** */
+// 할당하다 할당연산자
+// 좌항에 우항의 값을 할당
+const slides = $('.slide_wrap li');
+let n = 0;
+function slide() {
+  slides.removeClass('on');
+	slides.eq(n).addClass('on');
+  n++;  /* 변수+1 */
+  if(n>=slides.length){
+    n=0
+  }
+}
+setInterval(() => {
+slide();
+}, 500);
 
-depth1.addEventListener('mouseout', function () {
-  depth1.querySelectorAll('.depth2').forEach((o) => { o.style.display = 'none' })
-  document.querySelector('header').classList.remove('on');
-});
- */
+slides.eq(n).addClass('on');
