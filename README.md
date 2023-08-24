@@ -10,6 +10,7 @@
 | 0822 | 사이트 디자인&구현 | 1. [블루마켓 디자인시안완료](https://www.figma.com/file/LtjYBQj9DDrmrpPn7rdteG/siteA?type=design&node-id=2%3A71&mode=design&t=sBzhOBEU0Cx5BKuR-1) <br>2. [css-menu](./css-menu/)| ---|
 | 0823 | 사이트 디자인&구현 | 1. [블루마켓 B영역구현-코드보기](https://github.com/qwerewqwerew/git01/tree/siteA)| [구현화면](https://git01-2wwhyoynr-qwerewqwerew.vercel.app/)|
 | 0823 | css메뉴제작 | 1. [2뎁스 드롭다운 메뉴](./css-menu/c/style1.css)| ---|
+| 0824 | 블루마켓구현완료 | 1. [블루마켓 코드보기](https://github.com/qwerewqwerew/git01/tree/siteA)| [화면보기](https://git01-30n491b57-qwerewqwerew.vercel.app/)|
 
 
 
